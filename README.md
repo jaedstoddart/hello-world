@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+Hi everyone,
+
+This is my first readme file on github.
+
+Cheers,
+Jaed
